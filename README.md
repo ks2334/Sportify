@@ -1,1 +1,1 @@
-# Sportify
+# Social Network for Sports Players
