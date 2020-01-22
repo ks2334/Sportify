@@ -3,7 +3,7 @@
 A social network for sports players where users can look for other players around them, schedule matches with other players, send friend requests to other players, get player suggestions.
 Developed using Java Servlets, JSP
 
-## ToDO
+## ToDo
 - Add Win/Lose Statistics for a player
 - Integrate Chat System into Project
 
